@@ -1,4 +1,4 @@
-# Accelarometer Intergration
+# Accelerometer Intergration
 # Objective: Position detection with velocity derived through accelaration
 # Key Components: 1) Model accelaration as measured by the Accelarometer
 #                 2) Integrate Accelaration to determine velocity
