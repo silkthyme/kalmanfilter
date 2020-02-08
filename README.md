@@ -31,5 +31,6 @@ Our codebase will be C/C++ as in all likelihood we will publish the Kalman Filte
 * accurate speed 
 * accurate distance
 * acceleration (if time)
-meeting 2/8/2020 - akira learned github:)
+
+##### meeting 2/8/2020 - akira learned github:)
 
