@@ -21,3 +21,13 @@ Our codebase will be C/C++ as in all likelihood we will publish the Kalman Filte
 * Design criteria for evaluation of Kalman Filter
 * Extended Kalman Filter for all sensor measurements
 
+### Inputs
+* From laser sensor, distance traveled by the pod (inaccurate)
+* every pulse = a certain fixed length, e.g. 10 m
+* set distance markers within the loop that we can measure the pod against OR calculate distance based on reflective tape on wheel
+* accelerometer gives us velocity
+
+### Outputs
+* accurate speed 
+* accurate distance
+* acceleration (if time)
