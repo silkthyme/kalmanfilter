@@ -1,6 +1,9 @@
 # Oneloop Controls: Kalman Filter
 
 #### Note: This installation uses the FilterPy library to implement Bayesian filter functionalities: https://filterpy.readthedocs.io/en/latest/
+#### Please see the following resources:
+    * http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies
+    * https://github.com/SoumilShekdar/OneLoop_Controls_Kalman_Filter
 
 ### Members
 * Christina
