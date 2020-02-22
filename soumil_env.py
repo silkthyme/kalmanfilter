@@ -4,8 +4,8 @@
 #                 2) Equation to model measured Position
 #                 3) Physics Based Expected Position and Velocity Equation
 # Assumptions: - Sample Measured position with 1m standard deviation
-#              - Sample Measured velocity with 0.1km/hr standard deviaation
-#              - Constant Accelaration
+#              - Sample Measured velocity with 0.1km/hr standard deviation
+#              - Constant Acceleration
 
 import argparse
 import numpy as np
