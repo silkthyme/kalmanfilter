@@ -8,6 +8,7 @@
 #              - Constant Acceleration
 
 import filterpy
+import numpy as np
 from filterpy.filterpy.kalman import KalmanFilter
 from filterpy.filterpy.stats import plot_covariance_ellipse
 
